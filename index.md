@@ -21,12 +21,11 @@
 문제 번호 (종류) | 링크 | 문제 번호 (종류) | 링크
 ---|---|---|---
 0번 | [#0](0.md) | X번 | [#X](x.md)
-999번 | [#999](999.md)
+999번 | [#999](999.md) | Y번 | [#Y](y.md)
 
 <!--
 Answer Key
 1~15: https://pastebin.com/KfZttwNJ
-16~20: 
-0: Null (Maybe you don't have to check it, because of the same method)
+16~30: 
 999: Today's date
 -->
